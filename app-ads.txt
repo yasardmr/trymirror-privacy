@@ -1,0 +1,4 @@
+# app-ads.txt file for TryMirror app
+# This file authorizes Google AdMob to serve ads on this app
+
+google.com, pub-2351961800656574, DIRECT, f08c47fec0942fa0 
